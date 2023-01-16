@@ -9,8 +9,8 @@ Using sudonull's method,we  substitute "75080FBAE80F" with "EB080FBAE80F" (JE be
 
 SHA256SUM; 75beed69cb11ce5dcffa94ed7555e159df097d3b9fa1f89d926f8844682b4480
 
-Thanks to: @jozews321 for his version and @n4ru for https://github.com/n4ru/1vyrain as well asl @5T33Z0 for his T530 EFI.
+Thanks to: @jozews321 for his version and @n4ru for https://github.com/n4ru/1vyrain as well asl @5T33Z0 for his T530 EFI. And https://sudonull.com
 
 Currently running https://github.com/5T33Z0/Lenovo-T530-Hackintosh-OpenCore on a T430  mostliy unmodified.
 
-We have observed that W530.rom and T430.rom do not need tihs patch.
+We have observed that W530.rom and T530.rom do not need tihs patch.
