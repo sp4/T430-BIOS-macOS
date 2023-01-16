@@ -5,7 +5,7 @@ This is a lightly-tested patch to @n4ru's current T430.rom binary from https://g
 
 Drop it on a non-SSL HTTP server near you and take option 2 when your T430 wakes up from sleep during the exploit.
 
-It is patched to permanently leave cfg lock open in PowerMgmtDxe / PowerManagement2 (PE32_image)
+It is patched to permanently leave cfg lock open in PowerMgmtDxe / PowerManagement2 (PE32 image)
 
 Using sudonull's method,we  substitute "75080FBAE80F" with "EB080FBAE80F" (JE becomes JMP) described in 2014. See https://sudonull.com/post/115796-UEFI-BIOS-Modification-Part-One-Introducing-UEFITool
 
