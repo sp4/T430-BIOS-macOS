@@ -15,4 +15,4 @@ Thanks to: @jozews321 for his version and @n4ru for https://github.com/n4ru/1vyr
 
 Currently running https://github.com/5T33Z0/Lenovo-T530-Hackintosh-OpenCore on a T430  mostliy unmodified.
 
-We have observed that W530.rom and T530.rom do not need tihs patch.
+We have observed that W530.rom and T530.rom do not need this patch.
