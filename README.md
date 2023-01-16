@@ -7,7 +7,9 @@ Drop it on a non-SSL HTTP server near you and take option 2 when your T430 wakes
 
 It is patched to permanently leave cfg lock open in PowerMgmtDxe / PowerManagement2 (PE32 image)
 
-Using sudonull's method,we  substitute "75080FBAE80F" with "EB080FBAE80F" (JE becomes JMP) described in 2014. See https://sudonull.com/post/115796-UEFI-BIOS-Modification-Part-One-Introducing-UEFITool
+Using sudonull's method, I substitute HEX "75080FBAE80F" with "EB080FBAE80F" (JE becomes JMP) described in 2014. See https://sudonull.com/post/115796-UEFI-BIOS-Modification-Part-One-Introducing-UEFITool
+
+Note: two implementations of ifrextract said "bad protocol." I used a hex editor.
 
 SHA256SUM; 75beed69cb11ce5dcffa94ed7555e159df097d3b9fa1f89d926f8844682b4480
 
